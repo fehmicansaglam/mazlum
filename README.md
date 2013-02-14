@@ -24,5 +24,5 @@ lots of `System.out.println`, `e.printStackTrace` and etc.
 ## Architecture
 
 * 1 thread for accepting connections and reading from them: **Server**
-* number of processors + 1 threads for execution(calculating factorial): **Router**
+* number of processors + 1 threads for execution(calculating factorial) and writing the response: **Router**
 * 1 thread for closing connections: **Fatality**
