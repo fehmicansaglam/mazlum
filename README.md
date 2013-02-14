@@ -5,7 +5,7 @@ Very simple nonblocking http server implementation, calculating the factorial of
 
 ## DO NOT USE THIS SOFTWARE NOT ONLY IN PRODUCTION BUT ALSO FOR DEVELOPMENT
 Being only a sample, it is just written badly(yeah, written by my ass), containing 
-lots of `System.out.println` s, `e.printStackTrace` s and etc.
+lots of `System.out.println`, `e.printStackTrace` and etc.
 
 ## Prerequisities
 
