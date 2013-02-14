@@ -26,3 +26,12 @@ lots of `System.out.println`, `e.printStackTrace` and etc.
 * 1 thread for accepting connections and reading from them: **Server**
 * number of processors + 1 threads for execution(calculating factorial) and writing the response: **Router**
 * 1 thread for closing connections: **Fatality**
+
+## Performance
+
+Test by yourself.
+
+`ab -n 100 -c 16 "http://localhost:8080/index.html?sayi=10000"`
+
+If you get an error try once again. Yeah, this is bad ass programming. It will work.
+
