@@ -1,4 +1,4 @@
-package com.fourpimes.nonblocking;
+package com.fourprimes.nonblocking;
 
 /**
  * Hello world!

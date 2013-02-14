@@ -1,4 +1,4 @@
-package com.fourpimes.nonblocking;
+package com.fourprimes.nonblocking;
 
 import java.io.IOException;
 import java.nio.channels.ClosedChannelException;

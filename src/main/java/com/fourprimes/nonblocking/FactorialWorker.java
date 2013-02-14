@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.fourpimes.nonblocking;
+package com.fourprimes.nonblocking;
 
 import java.math.BigInteger;
 import java.nio.ByteBuffer;
