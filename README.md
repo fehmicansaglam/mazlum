@@ -4,7 +4,8 @@ mazlum
 Very simple nonblocking http server implementation, calculating the factorial of any given number.
 
 ## DO NOT USE THIS SOFTWARE NOT ONLY IN PRODUCTION BUT ALSO FOR DEVELOPMENT
-Being only a sample, it is just written badly(yeah, written by my ass), containing lots of `System.out.println`s, `e.printStackTrace`s and etc.
+Being only a sample, it is just written badly(yeah, written by my ass), containing 
+lots of `System.out.println` s, `e.printStackTrace` s and etc.
 
 ## Prerequisities
 
