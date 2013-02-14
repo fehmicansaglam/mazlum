@@ -13,6 +13,8 @@ Being only a sample, it is just written badly(yeah, written by my ass), containi
 
 ## How to run
 
+* git clone git://github.com/fehmicansaglam/mazlum.git
+* cd mazlum
 * mvn package
 * java -jar target/nonblocking-http-server-1.0-SNAPSHOT.jar
 * curl "http://localhost:8080/index.html?sayi=11 // You get 11!
