@@ -18,7 +18,7 @@ lots of `System.out.println`, `e.printStackTrace` and etc.
 * cd mazlum
 * mvn package
 * java -jar target/nonblocking-http-server-1.0-SNAPSHOT.jar
-* curl "http://localhost:8080/index.html?sayi=11 // You get 11!
+* curl "http://localhost:8080/index.html?sayi=11" // You get 11!
 
 
 ## Architecture
@@ -31,7 +31,7 @@ lots of `System.out.println`, `e.printStackTrace` and etc.
 
 Test by yourself.
 
-`ab -n 100 -c 16 \"http://localhost:8080/index.html?sayi=10000\" `
+`ab -n 100 -c 16 "http://localhost:8080/index.html?sayi=10000" `
 
 If you get an error try once again. Yeah, this is bad ass programming. It will work.
 
