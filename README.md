@@ -31,7 +31,7 @@ lots of `System.out.println`, `e.printStackTrace` and etc.
 
 Test by yourself.
 
-`ab -n 100 -c 16 "http://localhost:8080/index.html?sayi=10000"`
+`ab -n 100 -c 16 \"http://localhost:8080/index.html?sayi=10000\" `
 
 If you get an error try once again. Yeah, this is bad ass programming. It will work.
 
