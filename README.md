@@ -33,5 +33,5 @@ Test by yourself.
 
 `ab -n 100 -c 16 "http://localhost:8080/index.html?sayi=10000" `
 
-If you get an error try once again. Yeah, this is bad ass programming. It will work.
+If you get an error try once again. This is bad ass programming. It will work.
 
